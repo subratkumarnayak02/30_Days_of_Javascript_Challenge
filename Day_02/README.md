@@ -1,6 +1,6 @@
-# JavaScript 30-Day Challenge
+# JavaScript 30-Days Challenge
 
-## Day 1: Variables and Data Types
+## Day 2: Operators
 
 ### Tasks/Activities:
 
