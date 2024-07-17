@@ -15,7 +15,7 @@ if (a > 0) {
 
 //Task 2:
 
-let age = 25;
+let age = 15;
 if (age >= 18) {
   console.log("eligible for voting");
 } else {
