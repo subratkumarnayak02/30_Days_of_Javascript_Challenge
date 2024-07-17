@@ -1,7 +1,3 @@
-// Day 4: Loops
-
-// Task/Activites:
-
 // Activity 1: For Loop
 
 // Task 1:
