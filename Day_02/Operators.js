@@ -55,8 +55,8 @@ console.log(`${num9} === ${num10} : ${num9 === num10}`);
 
 //Task 11-13:
 
-let num11 = 30;
-let num12 = 40;
+let num11 = 90;
+let num12 = 100;
 
 let And_condition = num11 > num12 && num11 == 30;
 console.log(And_condition);
