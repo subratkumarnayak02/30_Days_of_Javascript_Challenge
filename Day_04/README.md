@@ -1,6 +1,6 @@
 # JavaScript 30-Days Challenge
 
-## Day 2: Loops
+## Day 4: Loops
 
 ### Tasks/Activities:
 

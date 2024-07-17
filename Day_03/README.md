@@ -1,6 +1,6 @@
 # JavaScript 30-Days Challenge
 
-## Day 2: Control Structures
+## Day 3: Control Structures
 
 ### Tasks/Activities:
 
@@ -19,8 +19,11 @@
 - **Task 5**: Write a program that uses a switch case to assign a grade ('A', B', 'C, D', F) based on a score and log the grade to the console.
 
 #### Activity 4: Conditional (Ternary) Operator
+
 - **Task 6**: Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
+
 #### Activity 5: Combining Conditions
+
 - **Task 7**: Write a program to check if a year is a leap year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
 
 ### Feature Request:
@@ -34,6 +37,7 @@
 ### Achievement:
 
 By the end of these activities, students will:
+
 - Implement and understand basic if-else control flow.
 - Use nested if-else statements to handle multiple conditions.
 - Utilize switch cases for control flow based on specific values.
