@@ -75,7 +75,7 @@ const greeting = (name, age = 16) => {
   return `Happy Birthday ${name}, on your ${age}th birthday!!! `;
 };
 
-console.log(greeting("Subrat", 23));
+console.log(greeting("Zulia", 23));
 
 // Activity 5: Higher-Order Functions
 
