@@ -1,6 +1,6 @@
 # 30 Days of JavaScript Challenge
 
-Welcome to the Chai aur Code: 30 Days JavaScript Challenge by Aditya! This challenge is designed to help you enhance your JavaScript skills by building projects, solving problems, and learning new concepts every day for 30 days.
+Welcome to the Chai aur Code: 30 Days JavaScript Challenge! This challenge is designed to help you enhance your JavaScript skills by building projects, solving problems, and learning new concepts every day for 30 days.
 
 ## Table of Contents
 
@@ -19,11 +19,11 @@ To start the challenge:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/30-days-JS-challange-chaiaurcode.git
+    git clone https://github.com/yourusername/30_Days_of_Javascript_Challenge.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd 30-days-JS-challange-chaiaurcode
+    cd 30_Days_of_Javascript_Challenge
     ```
 3. **Open the project in your favorite code editor:**
     ```bash
