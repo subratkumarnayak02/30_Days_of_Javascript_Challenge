@@ -34,7 +34,11 @@ To start the challenge:
 
 Each day has its own folder containing a README file with instructions, and any starter code or resources you'll need. Here's a brief overview of what to expect:
 
-- **Day 1:** Introduction to Variables and Data Types
+- **Day 1:** [Introduction to Variables and Data Types](https://github.com/subratkumarnayak02/30_Days_of_Javascript_Challenge/tree/main/Day_01)
+- **Day 2:** [Operators](https://github.com/subratkumarnayak02/30_Days_of_Javascript_Challenge/tree/main/Day_02)
+- **Day 3:** [Control Structures](https://github.com/subratkumarnayak02/30_Days_of_Javascript_Challenge/tree/main/Day_03)
+- **Day 4:** [Loops](https://github.com/subratkumarnayak02/30_Days_of_Javascript_Challenge/tree/main/Day_04)
+- **Day 5:** [Functions](https://github.com/subratkumarnayak02/30_Days_of_Javascript_Challenge/tree/main/Day_05)
 
 ## Resources
 
