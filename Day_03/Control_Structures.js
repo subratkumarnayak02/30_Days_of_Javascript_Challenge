@@ -4,7 +4,7 @@
 
 //Task 1:
 
-let a = 0;
+let a = -10;
 if (a > 0) {
   console.log("a is positive");
 } else if (a < 0) {
