@@ -16,22 +16,22 @@ console.log(names[names.length - 1]);
 
 let nums = [1, 2, 3, 4, 5];
 
-// Task 3:
+// Task 3: push
 
 nums.push(6); //add element to the end
 console.log(nums);
 
-// Task 4:
+// Task 4: pop
 
 nums.pop(); //delete element from the end
 console.log(nums);
 
-// Task 5:
+// Task 5: unshift
 
 nums.unshift(0); //add element to the beginnning
 console.log(nums);
 
-// Task 6:
+// Task 6: shift
 
 nums.shift(); //delete element from the beginning
 console.log(nums);
